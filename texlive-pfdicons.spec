@@ -1,6 +1,6 @@
 Name:		texlive-pfdicons
 Version:	60089
-Release:	1
+Release:	2
 Summary:	Draw process flow diagrams in chemical engineering
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pfdicons
