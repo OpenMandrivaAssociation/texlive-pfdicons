@@ -3,7 +3,7 @@ Version:	60089
 Release:	2
 Summary:	Draw process flow diagrams in chemical engineering
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pfdicons
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pfdicons
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pfdicons.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pfdicons.doc.r%{version}.tar.xz
